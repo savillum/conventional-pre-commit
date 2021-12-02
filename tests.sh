@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/sh
 
 this_dir="$PWD"
 test_dir=""
