@@ -1,4 +1,4 @@
-#!/bin/sh
+#!bash
 
 # list of Conventional Commits types
 cc_types=("feat" "fix")
